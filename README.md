@@ -18,7 +18,7 @@ An automated Python script that scrapes research projects from the IIT Gandhinag
 ## 🚀 Installation & Setup
 
 **1. Clone the repository**
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/rishabjainwork/ai-internship-automation.git
 cd YOUR_REPO_NAME
 
 **2. Install required Python packages**
